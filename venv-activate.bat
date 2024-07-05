@@ -1,0 +1,1 @@
+start C:\Users\Geiousta\github-classroom\Powerlearnproject\software-engineering\projects\e-commerce\venv\Scripts\activate
